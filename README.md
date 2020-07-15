@@ -1,1 +1,2 @@
-# Eventech.Canetada
+# Eventech.Auth
+# Api para tratamento do token jwt
